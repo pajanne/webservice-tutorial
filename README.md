@@ -12,8 +12,7 @@ pip install flask
 Running
 ```
 source venv/bin/activate
-chmod a+x app.py
-./app.py
+python app.py
 ```
 
 http://localhost:5000/
